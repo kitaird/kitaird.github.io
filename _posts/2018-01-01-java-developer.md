@@ -1,17 +1,15 @@
 ---
 layout: post
-title:  "Toy Project"
+title:  "Java Developer"
 info: "toy project"
 tech: "python"
 type: Toy 
 ---
 
 ## Toy Project 1.
-There is no specific form.  
-You can write what you want to write.  
-Since this markdown file is just displayed on the screen, you can create an image or format that matches the format you want.  
-In the case of the example, I briefly described the project introduction, technique, and period.  
-
+Creating JUnit and Performance tests for a trading system based on SAP Hybris Commerce
+* Main focus: JUnit tests using Mockito Framework
+* Performance tests using Apache JMeter
 
 ## Techique
 I wrote that I used python to run the project.  

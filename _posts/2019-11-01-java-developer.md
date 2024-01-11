@@ -1,16 +1,14 @@
 ---
 layout: post
-title:  "Reservation Bot"
+title:  "Java Developer"
 info: "Restaurant Reservation Bot"
 tech: "Python, Slack API"
 type: B Company
 ---
 
 ## Reservation Bot 
-This is just a project that suddenly reminds me.  
-Of course I did not actually work, I wrote something plausible.  
-To be honest, the project here is a virtual project.  
-It's all fake.  
+Setup automated Selenium Tests for multiple web shop implementations based on SAP Hybris Commerce
+* Selenium test environment using multiple browsers
 
 
 ## Tech

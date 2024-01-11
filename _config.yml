@@ -8,7 +8,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 author:
   name: Adriatik Gashi
   desc: Hello nice to meet you
-  email: adriatik.gashi0@gmail.com
+  email: adriatik.gashi0 (at) gmail (dot) com
   selfie: assets/img/profile.png
 
 # social
@@ -23,7 +23,7 @@ social:
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: https://www.linkedin.com/in/adriatik-gashi
   pinterest:
   reddit:
   soundcloud:
