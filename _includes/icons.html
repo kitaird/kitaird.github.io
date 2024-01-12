@@ -86,6 +86,17 @@
 </li>
 {% endif %}
 
+{% if site.social.google_scholar %}
+<li>
+  <a href="https://scholar.google.com/citations?user={{ site.social.google_scholar }}" title="{{ site.social.default_txt }} Google Scholar">
+    <span class="fa-stack fa-lg">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fab fa-google-scholar fa-stack-1x fa-inverse"></i>
+    </span>
+  </a>
+</li>
+{% endif %}
+
 {% if site.social.instagram %}
 <li>
   <a href="http://instagram.com/{{ site.social.instagram }}" title="{{ site.social.default_txt }} Instagram">
@@ -119,6 +130,17 @@
 </li>
 {% endif %}
 
+{% if site.social.orcid %}
+<li>
+  <a href="https://orcid.org/ {{ site.social.orcid }}" title="{{ site.social.default_txt }} OrcId">
+    <span class="fa-stack fa-lg">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fab fa-orcid fa-stack-1x fa-inverse"></i>
+    </span>
+  </a>
+</li>
+{% endif %}
+
 {% if site.social.pinterest %}
 <li>
   <a href="http://www.pinterest.com/{{ site.social.pinterest }}" title="{{ site.social.default_txt }} Pinterest">
@@ -136,6 +158,17 @@
     <span class="fa-stack fa-lg">
       <i class="fa fa-circle fa-stack-2x"></i>
       <i class="fab fa-reddit fa-stack-1x fa-inverse"></i>
+    </span>
+  </a>
+</li>
+{% endif %}
+
+{% if site.social.research_gate %}
+<li>
+  <a href="https://www.researchgate.net/profile/{{ site.social.research_gate }}" title="{{ site.social.default_txt }} Research Gate">
+    <span class="fa-stack fa-lg">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fab fa-researchgate fa-stack-1x fa-inverse"></i>
     </span>
   </a>
 </li>
