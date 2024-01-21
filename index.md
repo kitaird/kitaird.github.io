@@ -9,14 +9,14 @@ Especially interested in __reinforcement learning__ and __software engineering__
 ## News
 * __(01.Oct 23)__ - Start of Deep Reinforcement Learning Lecture @ h_da
 
-## Career
+## Projects
 * Research Assistant and Lecturer (01/2023 ~ )
     * Darmstadt University of Applied Sciences
     * Hesse, Germany
-* SAP Hybris Consultant (02/2021 ~ 01/2024)
+* Freelance SAP Hybris Consultant (02/2021 ~ 01/2024)
     * Technology solution provider (> 15 employee)
     * Hamburg, Germany
-* SAP Hybris Consultant (02/2020 ~ 01/2021)
+* Freelance SAP Hybris Consultant (02/2020 ~ 01/2021)
     * Industrial manufacturer (> 5.000 employee)
     * Bavaria, Germany
 * Java Developer (011/2019 ~ 01/2020)
