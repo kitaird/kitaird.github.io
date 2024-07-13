@@ -9,17 +9,23 @@ layout: base
         <div class="projects-content"> 
           <a href="{{ post.uri }}">
             <span class="projects-icon">
-              <i class="fa fa-file-pdf"></i><span class="projects-icon-text">{{ post.title }}</span>
+              {% if post.type == "pdf" %}
+                <i class="fa fa-file-pdf"></i><span class="projects-icon-text">{{ post.title }}</span>
+              {% elsif post.type == "code" %}
+                <i class="fa fa-code"></i><span class="projects-icon-text">{{ post.title }}</span>
+              {% endif %}
             </span>
           </a>
           </br>
-          <span class="projects-icon">
-              <i class="fa fa-graduation-cap"></i><span class="projects-icon-text">{{ post.type }}    
-          </span>
-          <span class="projects-icon">
-            <i class="fa fa-language"></i><span class="projects-icon-text">{{ post.lang }}    
-          </span>
-          </br>
+          {% if post.type == "pdf" %}
+            <span class="projects-icon">
+              <i class="fa fa-graduation-cap"></i><span class="projects-icon-text">{{ post.category }}    
+            </span>
+            <span class="projects-icon">
+              <i class="fa fa-language"></i><span class="projects-icon-text">{{ post.lang }}    
+              </span>
+            </br>
+          {% endif %}
           <span class="projects-icon">
               <i class="fa fa-calendar-alt"></i><span class="projects-icon-text">{{ post.date | date: "%B %d, %Y" }}</span>
           </span>
