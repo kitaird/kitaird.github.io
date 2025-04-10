@@ -4,13 +4,20 @@ layout: about
 
 ## About Me
 Solution-oriented software developer, looking for interesting projects in emerging information technology fields.<br/>
-Especially interested in __reinforcement learning__ and __software engineering__.
+Especially interested in __deep reinforcement learning__ and __software engineering__.<br/><br/>
+I regularly offer thesis topics in the areas of __deep reinforcement learning__, __robotics__, and __AI in automation technology__. If you have a topic suggestion in one of these fields, feel free to contact me. Topics I offer are kept up to date on this website.
 
 ## News
 * __(01.Oct 23)__ - Start of Deep Reinforcement Learning Lecture @ h_da
 
-## Projects
-* Research Assistant and Lecturer (01/2023 ~ )
+## Experience
+* __Research Assistant (02/2025 ~ )__
+    * Nuremberg Campus of Technology - Automation technology
+    * Bavaria, Germany
+* __Lecturer (01/2025 ~ )__
+    * Darmstadt University of Applied Sciences
+    * Hesse, Germany
+* Research Assistant and Lecturer (01/2023 ~ 12/2024)
     * Darmstadt University of Applied Sciences
     * Hesse, Germany
 * Freelance SAP Hybris Consultant (02/2021 ~ 01/2024)
